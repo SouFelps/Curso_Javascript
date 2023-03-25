@@ -1,7 +1,6 @@
 # Curso_Javascript
 
 ![Template_Curso Javascript_Github](https://user-images.githubusercontent.com/91474990/153657803-50ab3f9b-3a92-4a70-bc4b-7e40f3c999b4.png)
-<img src="https://img.shields.io/static/v1?label=Status&message=Incompleto&color=9A00FE&style=for-the-badge&logo=ghost"/>
 
 <p align="center">Curso disponível gratuitamente em: <a href="https://www.youtube.com/watch?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=1" target='_blank'> Curso em Vídeo </a> </p>
 
